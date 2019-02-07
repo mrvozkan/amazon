@@ -27,5 +27,6 @@ public class AmazonTest extends TestBase {
         alp.cart.click();
 
     }
+    //I believe I will do xoxo Merve
 
 }
