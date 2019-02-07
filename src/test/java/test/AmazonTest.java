@@ -28,4 +28,9 @@ public class AmazonTest extends TestBase {
 
     }
 
+    @Test
+    public void testing(){
+        System.out.println("I dont like conflicts");
+    }
+
 }
